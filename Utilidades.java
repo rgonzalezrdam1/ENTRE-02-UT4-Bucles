@@ -1,5 +1,6 @@
 import java.util.Scanner;
 /**
+ * Rubén González Rivera 
  *   Clase de utilidades
  *   Incluye métodos estáticos
  */
